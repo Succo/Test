@@ -1,4 +1,4 @@
 # -*- coding: utf-8 -*-
-" Dur dur dur de comprendre comment marche Git"
+#" Dur dur dur de comprendre comment marche Git"
 
-print("hello world")
+print("Bonjour le monde")
